@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 	}
 	std::vector<Orbital> orbitals;
 	// Quantity of subshells in a shell is equal to it's number
-	for (int n = 1; n <= 9; ++n)
+	for (int n = 1; n <= 7; ++n)
 	{
 		for (int l = 0; l < n; ++l)
 		{
