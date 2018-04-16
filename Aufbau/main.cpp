@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 		return 1;
 	}
 	std::vector<Orbital> orbitals;
-	// Quantity of subshells in a shell is equal to it's number
+	// Quantity of subshells in a shell is equal to its number
 	for (int n = 1; n <= 7; ++n)
 	{
 		for (int l = 0; l < n; ++l)
