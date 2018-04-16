@@ -1,6 +1,6 @@
 /*
-Aufbau: prints out electronic configuration for a given number of electrons according to the Aufbau principle (doesn't account for exceptions)
-*/
+ * Aufbau: prints out electronic configuration for a given number of electrons according to the Aufbau principle (doesn't account for exceptions)
+ */
 
 #include <iostream>
 #include <algorithm>
